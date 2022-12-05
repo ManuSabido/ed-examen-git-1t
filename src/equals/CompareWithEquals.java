@@ -1,3 +1,5 @@
+package equals;
+
 class Persona {
     private final String nombre;
 
